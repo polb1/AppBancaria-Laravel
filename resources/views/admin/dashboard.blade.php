@@ -1,6 +1,6 @@
 <x-app-layout>
     <x-slot name="header">
-        <h2 class="h5 mb-0">Panel d'Administrador</h2>
+        <h2 class="h5 mb-0">Test CI/CD</h2>
     </x-slot>
 
     <div class="container my-4">
